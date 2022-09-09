@@ -343,7 +343,7 @@ const docDefinition = (data) => {
       {
         columns: [
           {
-            text: `Authorized By\n\n\n___________________________\nMaktro Electronics Ltd.`,
+            text: `Authorized By\n\n\n___________________________\nStore Name Ltd.`,
             style: 'generalText',
           },
           {
