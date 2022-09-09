@@ -24,9 +24,6 @@ This application has lots of features including sales, expenses, returns, servic
 
 This application uses Nodejs, more specifically as `express` js as the backend framework. And for the views part of the application, I've used `ejs` as the template engines. Along with that, I've also used Bootstrap 4 for curating application UI. I mostly tried to use ES6 syntaxes everywhere. As the database, `mongoose` ODM has been used for mongodb database which is quite scalable by the application nature. There are several application dependencies like: `pdfmake`, `bcrypt`, `dateformat` and many more which can be found under `package.json` file.
 
-### Limitation
-
-As this application was initially built for specific to a business. There is some limitations by intentions. One of the annoying limitations you may face, is not able to sale or generate invoice for multiple product at once. However this can be easily extendable for future implications. Any PR requests will be welcomed to get rids of these limitations.
 
 ## Preview
 
