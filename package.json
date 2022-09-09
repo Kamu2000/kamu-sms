@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Kamu2000/kamu-sms.git"
   },
   "keywords": [
     "nodejs",
@@ -19,9 +19,9 @@
   "author": "Kamlesh Thakur",
   "license": "ISC",
   "bugs": {
-    "url": "/issues"
+    "url": "https://github.com/Kamu2000/kamu-sms.git/issues"
   },
-  "homepage": "#readme",
+  "homepage": "https://github.com/Kamu2000/kamu-sms.git#readme",
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
