@@ -262,20 +262,7 @@ const docDefinition = (data) => {
     content: [
       {
         columns: [
-          [
-            {
-              image: './public/images/logo.png',
-              width: 120,
-            },
-            {
-              text: 'Maktro Electronics Ltd.',
-              style: 'title',
-            },
-            {
-              text: `2/23 Razia Sultana Road,\n Mohammadpur, Dhaka.\nwww.maktro.com\n01714-178875, 01714-178876`,
-              style: 'generalText',
-            },
-          ],
+          
           [
             {
               text: 'INVOICE',
