@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="public/images/logo.png">
-  <div>Management System</div>
+  
+  <div>Store Management System</div>
 </h1>
 
-A business business management (inventory, sales, expense and servicing) system which is primarily built for Maktro.com. This project is crafted with Nodejs, Express, Ejs and MongoDB (using Mongoose ODM).
+A business business management (inventory, sales, expense and servicing) system. This project is crafted with Nodejs, Express, Ejs and MongoDB (using Mongoose ODM).
 
 ## Features Highlight
 
@@ -30,35 +30,9 @@ As this application was initially built for specific to a business. There is som
 
 ## Preview
 
-The application will is hosted on Heroku, live on this link: [maktroms.herokuapp.com](https://maktroms.herokuapp.com/)
+The application will is hosted on Heroku, live on this link:
 
-<table>
 
-  <tr >
-    <td colspan="2"><img src="screenshots/screenshot-00.png" title="Login Page"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot-01.png" title="Dashboard"/></td>
-    <td><img src="screenshots/screenshot-02.png" title="Entries"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot-03.png" title="Inventory"/></td>
-    <td><img src="screenshots/screenshot-04.png" title="Sales"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot-05.png" title="Return"/></td>
-    <td><img src="screenshots/screenshot-06.png" title="Customer"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot-07.png" title="Expenses"/></td>
-    <td><img src="screenshots/screenshot-08.png" title="Servicing"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot-09.png" title="Product"/></td>
-    <td><img src="screenshots/screenshot-10.png" title="Users"/></td>
-  </tr>
-
-</table>
 
 ### Application Access
 
@@ -83,6 +57,3 @@ Once you set the environment variables try to run below commands:
 
 This project uses `nodemon` for running the development server. If you have trouble working with nodemon due to permission uses, you can installing `nodemon` globally.
 
-### Licencing
-
-As per the deals with Maktro, I own the rights to make the codes open source or resell it to another business company. Also, the repository contains MIT License.
