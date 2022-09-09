@@ -16,8 +16,22 @@
                 <label for="inputPassword" class="sr-only">Confirm Password</label>
                 <input type="password" id="inputPassword" class="form-control" placeholder="ConfirmPassword"
                     name="confirm_password" required>
-                <label for="inputPassword" class="sr-only">Role</label>
-                <input type="text" id="inputEmail" class="form-control" placeholder="Role" name="role" required>
+                    <div class="form-group">
+                        
+                        <select class="form-control userForm-role" name="role" required>
+                            <option value="">Select Current User Role</option>
+                            <option value="admin">Admin
+                            </option>
+                            <option value="sales">Sales Manager
+                            </option>
+                            <option value="inventory">Inventory Manager
+                            </option>
+                            <option value="expense">Expense Manager
+                            </option>
+                            <option value="servicing">Servicing Manager
+                            </option>
+                        </select>
+                    </div>
                 <button class="btn btn-lg btn-primary btn-block my-2" type="submit">Sign
                     up</button>
                 
