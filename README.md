@@ -30,15 +30,6 @@ This application uses Nodejs, more specifically as `express` js as the backend f
 The application will is hosted on Heroku, live on this link:
 
 
-
-### Application Access
-
-- Admin > email: `sysadmin@maktro.com` | password: `123456`
-- Sales Manager > email: `sales@maktro.com` | password: `123456`
-- Expense Manager > email: `expense@maktro.com` | password: `123456`
-- Inventory Manager > email: `inventory@maktro.com` | password: `123456`
-- Servicing Manager > email: `servicing@maktro.com` | password: `123456`
-
 ## Installation
 
 To run the project locally you have to install Nodejs version 10+. Clone the project and run `npm install` from the root directory to install all the dependencies for the project. This project depends on some environment variables. Rename the `.env.example` files to `.env` and set the following variable to your values.
